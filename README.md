@@ -5,7 +5,7 @@
 >
 > 내가 운영체제라면 어떻게할지 상상하면서 듣기
 
-![image-20220927124223234](C:\Users\yeonw\AppData\Roaming\Typora\typora-user-images\image-20220927124223234.png)
+![image](https://user-images.githubusercontent.com/29223461/192591864-b30e4976-df9d-42b8-8468-56bd89c890eb.png)
 
 - 컴퓨터 시스템을 편리하게 사용할 수 있는 환경을 제공
   - 동시 사용자/프로그램이 각각 독자적 컴퓨터에서 수행되는 것 같은 환상을 제공
@@ -170,7 +170,7 @@ Multiprocess - 프로세스 = 실행중인 프로그램
 
 ## 운영체제의 구조
 
-![image-20220927134335123](C:\Users\yeonw\AppData\Roaming\Typora\typora-user-images\image-20220927134335123.png)
+![image](https://user-images.githubusercontent.com/29223461/192591946-4e281a64-321f-47f0-aff7-23524ce14baf.png)
 
 #### CPU 스케줄링
 
@@ -209,7 +209,4 @@ disk가 memory보다 느리고 memory가 cpu보다 느림
 
 
 
-
-
-# DAY 02
 
